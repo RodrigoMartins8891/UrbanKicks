@@ -1,0 +1,22 @@
+.carrinhoFlutuante {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #111;
+    color: white;
+    border-radius: 50%;
+    width: 56px;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    z-index: 999;
+    /* garante que fica acima de tudo */
+}
+
+.carrinhoFlutuante:hover {
+    background-color: #333;
+    transform: scale(1.1);
+}

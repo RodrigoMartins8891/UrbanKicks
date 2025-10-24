@@ -1,0 +1,23 @@
+.rodape {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1a1a1a;
+    height: 10vh;
+}
+
+.redesSociais {
+    display: flex;
+    gap: 10px;
+    
+}
+
+.redesSociais a svg {
+    color: #000;
+    transition: color 0.3s;
+    gap: 15px;
+}
+
+.redesSociais a:hover svg {
+    color: #fff;
+}
