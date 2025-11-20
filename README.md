@@ -1,39 +1,62 @@
-E-commerce Front-End de Tênis responsivo, construído com React e Context API
+# 👟 UrbanKicks - E-commerce de Tênis
 
+## Visão Geral do Projeto
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+O UrbanKicks é um projeto de e-commerce moderno e responsivo, desenvolvido para simular a experiência de compra de tênis online. O objetivo principal foi aplicar e consolidar conhecimentos avançados em ReactJS e gerenciamento de estado.
 
-## Getting Started
+**Demonstração Online:** [**INSERIR LINK DO DEPLOY AQUI (Vercel/Netlify)**] 👈 **Crucial para Recrutadores!**
 
-First, run the development server:
+## 💻 Tecnologias Utilizadas
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+| Categoria | Tecnologia | Descrição |
+| :--- | :--- | :--- |
+| **Front-End** | **ReactJS** | Biblioteca principal para a construção da interface. |
+| **Linguagem** | **JavaScript** (ES6+) | Lógica e interatividade do lado do cliente. |
+| **Estilização** | **CSS Modules** / Styled-Components (ou qual você usou) | Componentização e isolamento de estilos. |
+| **Estado** | **Context API** / Redux (ou qual você usou) | Gerenciamento de estado global (carrinho, filtros, etc.). |
+| **Rotas** | **React Router DOM** | Navegação entre as páginas do e-commerce. |
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Principais Funcionalidades
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+O projeto inclui recursos essenciais de um e-commerce:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* **Catálogo de Produtos:** Visualização de todos os tênis disponíveis.
+* **Filtros e Pesquisa:** Capacidade de filtrar produtos por marca, tamanho e pesquisar por nome.
+* **Detalhes do Produto:** Página dedicada com informações, descrição e preço.
+* **Carrinho de Compras:** Adicionar, remover e ajustar a quantidade de itens no carrinho.
+* **Totalização:** Cálculo automático do valor total da compra.
+* **Responsividade:** Layout adaptável para telas de desktop, tablet e celular.
 
-## Learn More
+## 🚀 Como Rodar o Projeto
 
-To learn more about Next.js, take a look at the following resources:
+Siga os passos abaixo para ter o UrbanKicks rodando localmente em sua máquina.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Pré-requisitos
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Certifique-se de ter o **Node.js** e o **npm** (ou Yarn) instalados.
 
-## Deploy on Vercel
+### Instalação
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/RodrigoMartins8891/UrbanKicks.git](https://github.com/RodrigoMartins8891/UrbanKicks.git)
+    cd UrbanKicks
+    ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+2.  **Instale as dependências:**
+    ```bash
+    npm install  # ou yarn install
+    ```
+
+3.  **Inicie o servidor de desenvolvimento:**
+    ```bash
+    npm start  # ou yarn start
+    ```
+
+O projeto será aberto automaticamente no seu navegador em `http://localhost:3000`.
+
+## 🤝 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([INSERIR LINK DO SEU LINKEDIN AQUI])
+
+**Rodrigo Martins** - Sinta-se à vontade para entrar em contato!
