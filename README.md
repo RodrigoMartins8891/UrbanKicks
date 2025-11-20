@@ -4,7 +4,7 @@
 
 O UrbanKicks é um projeto de e-commerce moderno e responsivo, desenvolvido para simular a experiência de compra de tênis online. O objetivo principal foi aplicar e consolidar conhecimentos avançados em ReactJS e gerenciamento de estado.
 
-**Demonstração Online:** [**INSERIR LINK DO DEPLOY AQUI (Vercel/Netlify)**] 👈 **Crucial para Recrutadores!**
+
 
 ## 💻 Tecnologias Utilizadas
 
