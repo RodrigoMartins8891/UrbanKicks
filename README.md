@@ -57,6 +57,6 @@ O projeto será aberto automaticamente no seu navegador em `http://localhost:300
 
 ## 🤝 Contato
 
-[![LinkedIn](https://www.linkedin.com/in/rodrigo-martins-de-oliveira1988/)]([INSERIR LINK DO SEU LINKEDIN AQUI])
+[[LinkedIn](https://www.linkedin.com/in/rodrigo-martins-de-oliveira1988/)]
 
 **Rodrigo Martins** - Sinta-se à vontade para entrar em contato!
