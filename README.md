@@ -57,6 +57,6 @@ O projeto será aberto automaticamente no seu navegador em `http://localhost:300
 
 ## 🤝 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([INSERIR LINK DO SEU LINKEDIN AQUI])
+[![LinkedIn](https://www.linkedin.com/in/rodrigo-martins-de-oliveira1988/)]([INSERIR LINK DO SEU LINKEDIN AQUI])
 
 **Rodrigo Martins** - Sinta-se à vontade para entrar em contato!
