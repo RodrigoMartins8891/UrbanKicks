@@ -12,7 +12,7 @@ O UrbanKicks é um projeto de e-commerce moderno e responsivo, desenvolvido para
 | :--- | :--- | :--- |
 | **Front-End** | **ReactJS** | Biblioteca principal para a construção da interface. |
 | **Linguagem** | **JavaScript** (ES6+) | Lógica e interatividade do lado do cliente. |
-| **Estilização** | **CSS ** / | Componentização e isolamento de estilos. |
+| **Estilização** | **CSS **  | Componentização e isolamento de estilos. |
 | **Estado** | **Context API** / Supabase | Gerenciamento de estado global (carrinho, filtros, etc.). |
 | **Rotas** | **React Router DOM** | Navegação entre as páginas do e-commerce. |
 
